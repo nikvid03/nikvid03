@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a Final year Computer Science student at IIIT Vadodara passionate about software development and artificial intelligence. My journey in tech spans from building full-stack web applications to implementing complex machine learning models.
+I'm a graduate Computer Science Engineer from IIIT Vadodara passionate about software development and artificial intelligence. My journey in tech spans from building full-stack web applications to implementing complex machine learning models.
 
 I enjoy solving challenging problems and constantly expanding my skill set in both software engineering and data science domains.
 
